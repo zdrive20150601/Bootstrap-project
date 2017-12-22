@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "del": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^2.2.0"
+  },
+  "scripts": {
+    "start": "gulp",
+    "gulp": "gulp"
+  }
+}
